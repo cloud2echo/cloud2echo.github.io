@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://cloud2echo.github.io/pwa/manifest.json</loc>
+    
+    <lastmod>2023-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cloud2echo.github.io/pwa/img/README.html</loc>
+    
+    <lastmod>2023-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://cloud2echo.github.io/google45aedc8e16e50377.html</loc>
     
     <lastmod>2023-07-17</lastmod>
@@ -14,15 +32,6 @@
     <loc>https://cloud2echo.github.io/posts/d22979d0-209a-11ee-a844-3fbc3c339513/</loc>
     
     <lastmod>2023-07-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://cloud2echo.github.io/pwa/manifest.json</loc>
-    
-    <lastmod>2023-07-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
